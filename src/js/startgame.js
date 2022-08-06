@@ -1,4 +1,4 @@
-import Board from './renderboard.js';
+import Board from './renderboard';
 
 export default class Game {
   constructor(size) {
