@@ -12,7 +12,6 @@ module.exports = merge(common, {
     minimize: true,
     minimizer: [
       new CssMinimizerPlugin({}),
-      '...',
     ],
   },
 });
